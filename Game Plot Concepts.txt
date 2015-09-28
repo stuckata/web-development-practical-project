@@ -18,7 +18,7 @@ Food - resource
 Scrap - resource(need scrap collectors)
 	* Scrap Recycle Factory
 
-Structures - Resource Per Hour
+Structures - Resource Per Hour, InProgress
 ----------
 Farm
 Water Pump
@@ -29,7 +29,7 @@ Radar Tower
 Research Labs (Upgrades)
 Defense Wall
 
-Units - Hit Points, Attack Power, Defense
+Units - Hit Points, Attack Power, Defense, InProgress
 -----
 Army - Speed
 ****
@@ -46,6 +46,16 @@ Defensive Structures
 ********************
 Watch Tower
 Bunker
+
+Non Battle Event - building, upgrade
+----------------
+InProgress
+
+Battle
+------
+10 Rounds - battle ends even if there is no winner
+Attack = Random(SumOfAllUnitsAttack, 20% - 100%) - Random(DefenseOfAllUnits, 20% - 100%)?
+Every round damage done is randomized over different units and if all of them are dead then the difference go to others
 
 
 
