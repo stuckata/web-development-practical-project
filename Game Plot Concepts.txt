@@ -1,0 +1,25 @@
+﻿Sand World
+----------
+
+Plot
+----
+250 million years in the future. New super continent - Pangea Ultima. The world is a big desert and the conflict is for last and small fresh water sources which sustain the life on Earth. There is no government nor money. Humanity live in small societies. People evolving using machine-human bodies, upgrading their bodies with technology needed to fight against other fractions for resources.
+
+Resources
+---------
+Water - major resource(base establishment)
+Food - resource/farms(need water and workers) and animals(need hunters)/
+Scrap - resource(need scrap collectors)
+
+Units
+-----
+Humans
+******
+worker
+hunter
+scrap collector
+sand footman
+
+
+
+
