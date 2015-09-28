@@ -1,24 +1,55 @@
 ﻿Sand World
-----------
+==========
 
 Plot
 ----
 250 million years in the future. New super continent - Pangea Ultima. The world is a big desert and the conflict is for last and small fresh water sources which sustain the life on Earth. There is no government nor money. Humanity live in small societies. People evolving using machine-human bodies, upgrading their bodies with technology needed to fight against other fractions for resources.
 
+Starting Point
+--------------
+Oasis - coordinates [0-1000 : 0-1000]
+
 Resources
 ---------
-Water - major resource(base establishment)
-Food - resource/farms(need water and workers) and animals(need hunters)/
+Water - major resource(gold equivalent)
+	* Water Pump
+Food - resource
+	* Farm
 Scrap - resource(need scrap collectors)
+	* Scrap Recycle Factory
 
-Units
+Structures - Resource Per Hour
+----------
+Farm
+Water Pump
+Scrap Recycle Factory
+Barracks
+War Machines Factories
+Radar Tower
+Research Labs (Upgrades)
+Defense Wall
+
+Units - Hit Points, Attack Power, Defense
 -----
-Humans
-******
-worker
-hunter
-scrap collector
-sand footman
+Army - Speed
+****
+Sand Footman
+Sandstorm Controller
+War Buggy
+Battle Crossover
+Sand Tank
+Platform of Death
+Scrap Collector Vehicle
+Spy Drone
+
+Defensive Structures
+********************
+Watch Tower
+Bunker
+
+
+
+
 
 
 
